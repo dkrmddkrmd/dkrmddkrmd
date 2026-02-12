@@ -25,8 +25,8 @@
 <br/><br/>
 
 ### 🏅 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dkrmddkrmd&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&show_icons=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dkrmddkrmd&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
 
 </div>
