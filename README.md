@@ -24,9 +24,12 @@
 
 <br/><br/>
 
-### 🏅 Stats
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dkrmddkrmd&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&show_icons=true)
+<br/>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
+### 🏅 Stats
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkrmddkrmd&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000" height="165"/>
+</div>
 
 </div>
