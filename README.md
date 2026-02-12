@@ -25,7 +25,8 @@
 <br/><br/>
 
 ### 🏅 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dkrmddkrmd&custom_title=dkrmddkrmd's%20Github%20Stat&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dkrmddkrmd&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrmddkrmd&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
 
 </div>
